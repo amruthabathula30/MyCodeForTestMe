@@ -1,5 +1,5 @@
 Feature: Understanding of tags
-@Smoke,Sanity
+@Smoke @Sanity
 Scenario: Login validation on flipkart
 Given User launched the flipkart page
 Then Provided the valid credentials
